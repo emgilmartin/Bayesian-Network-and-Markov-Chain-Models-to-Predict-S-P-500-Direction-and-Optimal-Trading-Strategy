@@ -1,1 +1,1 @@
-# Bayesian-Network-and-Markov-Chain-Models-to-Predict-S-P-500-Direction-and-Optimal-Trading-Strategy
+# Bayesian-Network-and-Markov-Chain-Models-to-Predict-S-P-500-Direction-and-Optimal-Trading-Strategy[GilmartinAppliedMathThesis.pdf](https://github.com/user-attachments/files/24134317/GilmartinAppliedMathThesis.pdf)
